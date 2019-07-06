@@ -41,6 +41,9 @@ Playground for learning about Kong
     - `\d+ <table_name>`: show table details
     - `\q`: exit the container
 * Check that Kong is up and running: `curl http://localhost:8001`
+* Access Konga (Kong Admin GUI): http://localhost:1337/
+    - Currently trying to create a connection to Kong Admin URL is failing...
+
 
 ## Kong Admin GUI
 * https://github.com/pantsel/konga
